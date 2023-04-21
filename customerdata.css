@@ -1,0 +1,148 @@
+body{
+    background-image: linear-gradient(to right, rgb(123, 233, 224) , rgb(7, 0, 49));
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
+  
+  a{
+    color: yellow;
+  }
+  a:hover{
+    background-color: #1c261e;
+  }
+  a:link{
+    text-decoration: none;
+    padding: 10px;
+  }
+  #colo{
+    color: blue;
+    margin-top: 5px;
+  }
+  
+  .navb{
+    background-color: black;
+    height: 66px;
+  }
+  
+  .pan{
+    padding: 5px;
+  }
+  
+  #a1{
+    color: yellow;
+  }
+  #a2{
+    color: yellow;
+  }
+  
+  #a3{
+    color: yellow;
+  }
+  h2{
+    width: 1000px;
+    color: white;
+    background-color: black;
+    margin-left: 175px;
+    border-radius: 10px;
+  }
+  
+  .table-inf{
+    background-color: #f0ffe1;
+  }
+  .table-ligh{
+    background-color: #4f55a7;
+  }
+  .navname{
+  
+    font-size: 18px;
+    position: relative;
+    bottom: 25px;
+    margin-left: 150px;
+  }
+  
+  .loogo{
+    border-radius: 20px;
+    margin: 20px;
+    margin-left: 135px;
+    position: relative;
+    left: 450px;
+    text-shadow: 2px 2px #003cff;
+  }
+  
+  h2{
+    text-align: center;
+    font-weight: bold;
+    font-family: 	Verdana;
+  
+  }
+  
+  
+  th{
+    padding-left: 75px;
+  }
+  
+  #p1{
+    background-color: grey;
+  }
+  #p2{
+    background-color: grey;
+  }
+  #p3{
+    background-color: grey;
+  }
+  #p4{
+    background-color: grey;
+  }
+  #p5{
+    background-color: grey;
+  }
+  table {
+    margin: 0 auto;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+
+  .table {
+    border-collapse: collapse;
+    margin-left: 175px;
+    margin-right: 175px;
+    margin-top: 20px;
+    width: 1000px;
+  }
+
+  tr.table-danger td {
+    text-align: center;
+  }
+
+  th, td {
+    text-align: center;
+  }
+
+  table tr td {
+    text-align: right;
+    padding-right: 7px;
+  }
+
+  .table-danger td:first-child {
+    text-align: right;
+    padding-right: 10px;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+  }
+
+  table tr td:first-child {
+    text-align: center;
+  }
+  .table-danger td {
+    text-align: center;
+  }
+  #colo {
+    font-size: 24px; /* Change the value to the desired font size */
+  }
