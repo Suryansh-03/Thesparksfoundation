@@ -1,4 +1,4 @@
-# Thesparksfoundation
+# WebTechnologyProject
 Basic banking system
 
 
