@@ -4,4 +4,4 @@ Basic banking system
 
 
 
-This is my task 1 for web development internship given by the sparks foundation.
+This is my mini project for web technology subject under professor Nalini Mehtre.
